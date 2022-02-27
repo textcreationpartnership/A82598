@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and protestation of the Lords and Commons in Parliament to this kingdome and to the whole world. Wherein (amongst diverse of His Majesties late illegal proceedings) is discovered how severall commissions under the Kings authoritie have been granted to many profest papists (herein nominated) for places of command in this war ... : also how Sir John Hinderson and Colonell Cockrain were sent to Hamburg and Denmarke to raise forces  ... With the names of some who have been proclaimed rebels in Ireland now in great favor with His Maiestie. For which and other reasons they are resolved ... to defend the truth against the popish army ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82598</idno>
+            <idno type="STC">Wing E1312A</idno>
+            <idno type="STC">ESTC R207961</idno>
+            <idno type="EEBO-CITATION">45504460</idno>
+            <idno type="OCLC">ocm 45504460</idno>
+            <idno type="VID">171771</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171771)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2590:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and protestation of the Lords and Commons in Parliament to this kingdome and to the whole world. Wherein (amongst diverse of His Majesties late illegal proceedings) is discovered how severall commissions under the Kings authoritie have been granted to many profest papists (herein nominated) for places of command in this war ... : also how Sir John Hinderson and Colonell Cockrain were sent to Hamburg and Denmarke to raise forces  ... With the names of some who have been proclaimed rebels in Ireland now in great favor with His Maiestie. For which and other reasons they are resolved ... to defend the truth against the popish army ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles and Tho. Bates,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Sabbathi, Octob. 22, 1642. Ordered by the Lords and Commons assembled in Parliament that this Declaration shall be forthwith printed and published and read in all churches and chappels within the kingdome of England and dominion of Wales by the parsons, vicars or curates of the same. John Brown, Cler. Parl."</note>
+                  <note>Imperfect: pages have print show-through.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171771:1" rendition="simple:additions"/>
+            <p>A Declaration and Proteſtation of the Lords and Commons in Parliament, to this Kingdome, and to the whole World.</p>
+            <p>Wherein (amongſt divers of His Majeſties late illegall proceedings) is diſcovered, how ſeverall Commiſſions under the Kings Authority have been granted to many profeſt Papiſts (herein nominated) for places of command in this War, with pow<g ref="char:EOLhyphen"/>er to raiſe men and armes, which in ſundry places they have performed.</p>
+            <p>Alſo how Sir <hi>Iohn Hinderſon,</hi> and Colonell <hi>Cockram,</hi> were ſent to <hi>Hamburg</hi> and <hi>Denmarke<g ref="char:punc">▪</g>
+               </hi> to raiſe Forces and in other forraigne parts, to bring into this KINGDOME.</p>
+            <p>With the names of ſome who have beene proclaimed Rebels in Ireland, now in great favour with his MAIESTIE.</p>
+            <p>For which and other reaſons they are reſolved to the uttermoſt of their power, with the hazard of their lives and fortunes to defend the Truth, againſt the Popiſh Army, and all that ſhall joyne with them in the proſecution of this wicked deſigne.</p>
+            <p>Alſo, an Order of both Houſes of Parliament, for the placing of Courts of Guard, Poſts, Bars and Chains, in all by-Lanes of ſeverall Pariſhes adjoyning to this City.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi, October 22. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons aſſembled in Parliament that this Declarrtion ſhall be forthwith Printed and publiſh<g ref="char:EOLhyphen"/>ed; and read in all Churches and Chappels within the Kingdome of England, and dominion of Wales, by the Parſons, Vicar, or Cu<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap> of the ſame.</p>
+                        <closer>
+                           <signed>John Browne Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London Printed for <hi>F. Coles,</hi> and <hi>Tho. Bates.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:171771:2"/>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day ordered by the Lords and Commons in Parliament, That houſes for Courts of Guard, and Poſts, Bars, and chaines, be forthwith erected and ſet up in ſuch places and by-Lanes of the Pariſhes of S. <hi>Margarets Westminster,</hi> S <hi>Martins</hi> in the fields (in the confines of <hi>Weſtminſter,</hi> S. <hi>Clements Danes,</hi> S. <hi>Mary Savoy,</hi> S. <hi>Andrewes Holborne,</hi> S. <hi>Giles</hi> in the fields, <hi>Coven-Garden,</hi> S <hi>Iohn-street,</hi> S. <hi>Iames</hi> at <hi>Cl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arken-well,</hi> S. <hi>Giles Crippl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gate, Shorditch, White-Chappell, Iſlington, Mile-end, Southwarke, Lambeth,</hi> or any other place or places, as ſhall be thought neceſſary and convanient for the defence and ſafe guarding of the ſaid Pariſhes, places<g ref="char:punc">▪</g> and by-Lanes, the charge thereof to be borne by the inhabitanrs of the ſeverall Pariſhes aforeſaid reſpectively, who ſhall be rated and aſſeſſed by ſuch perſons reſpectively, as the Lord Lievtenant of that County or any two of his Deputies ſhall nominate for that purpoſe. And if any ſhall refuſe to contribute their proportion, then the ſaid perſons ſo to be named to rate and aſſeſſe, ſhall certifie the names of ſuch refuſers to the Lord-Lieutenant, or any two of his Deputies, who are to acquaint one or both Houſes of Parliament therewith, that ſuch further order may be taken therein as to them ſhall be thought moſt convenient; And that a competent number of the Trained-bands and Companies of Voluntiers in and belonging to the ſaid Pa<g ref="char:EOLhyphen"/>riſhes, ſhall day and night attend with their Armes in or neer the ſaid Court of Guard; who ſhall have power and authourity hereby to ap<g ref="char:EOLhyphen"/>prehend, ſeize and arreſt all ſuſpitious perſons, Ammunition and Armes, paſſing through the ſaid Pariſhes, places, or by-Lanes, or any part of them, untill either of the ſaid Houſes of Parliament be made acquainted therewith, and their pleaſure be further known concer<g ref="char:EOLhyphen"/>ning the ſame; And the Captains and Officers of the Trained-Bands and Voluntiers. And the perſons here under named are required to take care that the premiſes be carefully performed accordingly<g ref="char:punc">▪</g> which perſons are to be named by the Lord Lievtenant, or any two or more of his Deputy-Lievtenants.</p>
+            <closer>
+               <signed>Io. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="3" facs="tcp:171771:3"/>
+            <head>A Declaration and Proteſtation of the Lords and Commons Aſſembled in PARLIAMENT.</head>
+            <p>VVE the Lords and Commons, in this preſent Parliament aſſembled, do in the preſence of Almighty God, for the ſatisfaction of our Conſciences, and diſcharge of that great truſt which lyes up<g ref="char:EOLhyphen"/>on us, make this proteſtation and Declaration to this King<g ref="char:EOLhyphen"/>dome and Nation, and to the whole world, that no private paſ<g ref="char:EOLhyphen"/>ſion or reſpect, no evill intention to his Majeſties perſon, no deſigne to the prejudice of his juſt honour and authority, en<g ref="char:EOLhyphen"/>gaged us to raiſe Forces and take up armes againſt the authors of this War, wherewith the Kingdome is now inflamed.</p>
+            <p>And we have alwayes deſired from our hearts and ſoules, manifeſted in our actions and proceedings, and in ſeverall humble Petitions and Remonſtrances to his Majeſty, pro<g ref="char:EOLhyphen"/>feſſed our loyalty and obedience to his Crown, readineſſe and reſolution to defend his perſon and ſupport his eſtate with our lives and fortunes to the uttermoſt of our power.</p>
+            <p>That we have been willing to paſſe by, not onely thoſe In<g ref="char:EOLhyphen"/>juries, Ignominies, Slanders, and falſe Accuſations, where<g ref="char:EOLhyphen"/>with we have been privately oppreſſed and grieved, but like<g ref="char:EOLhyphen"/>wiſe many publike incroachments, and high uſurpations, to the prejudice of Religion and Liberty, divers bloudy, tray<g ref="char:EOLhyphen"/>terous and cruell practiſes and deſignes, for the utter ru<g ref="char:EOLhyphen"/>ine and deſtruction of the Church and State, ſo as we might for the time to come have been ſecured from that wicked and malignant party, thoſe pernicious and Trayterous Counſels, who have beene the Authours and fomentors
+<pb n="4" facs="tcp:171771:4"/>
+of the former miſchiefes and preſent calamities which have and ſtill doe diſtemper this Church and State.</p>
+            <p>That for the ſame purpoſe, and for the avoyding of blood we directed the Earle of <hi>Eſſex</hi> Lord Generall by himſelfe, or others in ſome ſafe and honourable way to cauſe to be deli<g ref="char:EOLhyphen"/>vered an humble Petition, wherein we doe deſire nothing from His Majeſty but that he would return in peace to his Parliament, and by their faithfull counſell and advice com<g ref="char:EOLhyphen"/>poſe the diſtemper, and confuſions abounding in his King<g ref="char:EOLhyphen"/>domes, as he is bound to doe, we therein profeſſeth in the ſight of Almighty God, which is the ſtrongeſt obligation that any Chriſtian, and the moſt ſolemne publike faith which a<g ref="char:EOLhyphen"/>ny ſuch State as a Parliament can give, that we would receive him with all honour, yeeld him all true obedience and ſub<g ref="char:EOLhyphen"/>jection, and faithfully endeavour to defend his perſon and e<g ref="char:EOLhyphen"/>ſtate from all danger, and to the uttermoſt of our power to eſtabliſh to him and to his people, all the bleſſings of a glo<g ref="char:EOLhyphen"/>rious and happy Raigne, as it is more largely expreſt in that Petition.</p>
+            <p>For the delivery of which Petition, his Excellency hath twice ſent unto the King, humbly deſiring a ſafe conduct for thoſe who ſhould be imployed therein, but his Majeſty refuſed to give any ſuch ſafe conduct, or to receive this hum<g ref="char:EOLhyphen"/>ble and dutifull Petition, by any addreſſe from the Earle of <hi>Eſſex,</hi> ſaying that if Juſtice had beene done, the Gentleman which brought the ſecond Meſſage could not expect his liberty.</p>
+            <p>By all which and many other evidences and Inducements, we are fully convinc't in our judgements and beleefe, that the Kings counſels and reſolvtions are ſo engaged to the Popiſh party, for the ſuppreſſion and extirpation of the true Reli<g ref="char:EOLhyphen"/>gion, that all hopes of peace and protection are excluded, and that it is fully intended to give ſatisfaction, and to the Papiſts by alteration of Religion, and to the Cavaliers and
+<pb n="5" facs="tcp:171771:5"/>
+other Souldiers, by expoſing the wealth of the good ſubjects, eſpecially of this City of <hi>London,</hi> to be ſackt, plundered, and ſpoyled by them.</p>
+            <p>That for the better effecting hereof, great numbers of <hi>Papiſts</hi> have in ſhow conformed themſelves to the Proteſtant Reli<g ref="char:EOLhyphen"/>gion by comming to the Church, receiving the Sacrament, and taking the oathes of Alegiance and Supremacy, which ſome of their owne Prieſts have encouraged them to doe, by maintaining that they might doe all thoſe things and yet con<g ref="char:EOLhyphen"/>tinue good Catholicks: Under which cover his Majeſty did at firſt begin to ſtrengthen himſelfe, thoſe of that Religion being weake, and unable to endure the envy and diſcontent which the arming of the Papiſts would procure in the King<g ref="char:EOLhyphen"/>dome, and therefore endeavuored to keepe off all Jealouſies and ſuſpitions by many fearefull oathes and imprecations, concerning his purpoſe of maintaining the Proteſtant Reli<g ref="char:EOLhyphen"/>gion and the Lawes of the Kingdome; cauſing ſome profeſt Papiſts to be diſcharged out of his Army, and none to bee received that would not indure the Teſt of commidg to Church, receiving the Sacrament, and taking the oathes of Allegiance.</p>
+            <p>That his Majeſty being now growne ſtronger, and able as he conceives to make good his owne ends by Armes, his confidence in the Prieſts doth more clearely appeare per<g ref="char:EOLhyphen"/>ſons impriſoned for Prieſts and Jeſuits have been releaſed out of the Iale of <hi>Lancaſter,</hi> profeſt Papiſts have been invited to riſe and take up Armes, Commiſſions under his Ma<g ref="char:EOLhyphen"/>jeſties Authority, have been granted to many of them for pla<g ref="char:EOLhyphen"/>ces of command in this warre, with power to raiſe men and great numbers have been raiſed by them, and they dayly en<g ref="char:EOLhyphen"/>creaſe, as namely to Sir <hi>Nicolas Thornton</hi> Sir <hi>Tho. Howard</hi> Bar. Sir <hi>Edwiard Widdington,</hi> Sir <hi>William Kiddell,</hi> Maſter <hi>Smith,</hi> of <hi>Aſh,</hi> Maſter <hi>George Wray,</hi> Maſter <hi>Edward Gray,</hi> of <hi>Morpeth</hi> Caſtle, Maſter <hi>Lancelot Errington,</hi> of <hi>Denico,</hi> Maſter <hi>Lancelot</hi>
+               <pb n="6" facs="tcp:171771:6"/>
+               <hi>Holtby,</hi> all of Northumberland, Biſhopricke of Durham and New-Caſtle, to Maſter <hi>Clifton,</hi> Maſter <hi>William Walter,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Gerrard,</hi> Baronet, Sir <hi>Cicill Trafford,</hi> Maſter <hi>Anderſon</hi> of Loſtocke in the County of Lancaſter, and divers Forces are raiſed and payed by the Earle of Worceſter, and his ſon the Lord <hi>Herbert,</hi> and as we are informed by an expreſſe meſſenger ſent from thoſe parts, the ſaid Lord <hi>Herbert,</hi> a notorious Pa<g ref="char:EOLhyphen"/>piſt, is made Generall of all South-Wales; and we are further informed out of Yorke-ſhire, by divers perſons of great worth and quality, that thoſe that raiſe Forces in theſe parts for His Majeſty<g ref="char:punc">▪</g> doe arme and imploy Papiſts, and uſe their advice in their conſultations, all which is contrary to the ſolemne oaths, Proteſtations and execrations, whereby His Majeſty bound himſelfe to maintaine the Proteſtant Religion, and the Lawes of the Land, by which he endeavoured to get a confidence in the people of his good intentions, which how well it is anſwe<g ref="char:EOLhyphen"/>red, we leave to the world to judge.</p>
+            <p>That Sir <hi>Iohn Hinderſon,</hi> and Colonell <hi>Cockrom,</hi> men of ill report both for Religion and honeſty, ſent to Hamburg and Denmarke, as we are credibly informed, to raiſe Forces there, and to bring them to New-Caſtle, and to joyn with the Earle of New-Caſtle, &amp; the army of Papiſts, which they intend to raiſe there, and that divers endeavours have bin uſed in other forrain parts to bring in ſtrange Forces into the Kingdome, that the K. hath received about him divers Papiſts of Ireland, ſome of which are indited of high Treaſon for their Rebellion there, notoriouſly known to have been in actuall rebellion, as namely the L. <hi>Yaffe,</hi> Sir <hi>Iohn Oungane</hi> proclaimed a Rebell, Colo. <hi>Fitz Williams,</hi> Doctor <hi>Meara</hi> indited for the rebellion in Ireland, and fled for the ſame, and yet appointed Phyſitian to Prince <hi>Rupert,</hi> and that His Majeſty hath ſent for the Petition of the Iriſh Rebels, which the Juſtices had ſtopt, with evident expreſſion of favour to them, whereby that Kingdome is like to become an unfit habitation of any Proteſtants, and a
+<pb n="7" facs="tcp:171771:7"/>
+ſeminary of war and treaſon againſt this Kingdome.</p>
+            <p>That divers Engliſh Traytors, actors in the former deſignes againſt the Kingdome and Parliament, are the chiefe Counſel<g ref="char:EOLhyphen"/>lors and actors in this unnaturall warre againſt his Subjects, as the Lord <hi>Digby, O neale, Wilmot, Pollard, Aſhburnham</hi> and others.</p>
+            <p>That we have been likewiſe credibly informed, that diverſe Jeſuites and Prieſts in forreigne parts, make great collections of money, for reliefe of the Papiſts in Ireland, and the furthe<g ref="char:EOLhyphen"/>ring of His Majeſties deſignes here againſt the Parliament, and that by them and ſome others, fled out of this Kingdome for Treaſon; great meanes are made to take up the differences betwixt ſome Princes of the Romane Religion, that ſo they might unite their ſtrength, for the extirpation of he prote<g ref="char:EOLhyphen"/>ſtant Religion, wherein principally this Kingdome, and the Kingdome of Scotland are concerned, as making the greateſt Body of the Reformed Religion in Chriſtendome, and beſt able to defend themſelves, and ſuccour other Chur<g ref="char:EOLhyphen"/>ches.</p>
+            <p>For all which reaſons we are reſolved to enter into a ſo<g ref="char:EOLhyphen"/>lemne Oath and Covenant with God, to give up our ſelves, our Lives and Fortunes into his hands, and that we will to the ut<g ref="char:EOLhyphen"/>termoſt of our power and judgement maintaine his truth, and conforme our ſelves to his will. That we will defend this cauſe with the hazard of our lives, againſt the Kings Army, and a<g ref="char:EOLhyphen"/>gainſt all that ſhall joyne with them in the proſecution of this wicked deſigne, according to the forme to be agreed upon by both Houſes of Parliament, to be ſubſcribed by our hands, and that we will for the ſame ends aſſociate our ſelves, and unite with all the well affected in the City of London, and other parts of His Majeſties Dominions.</p>
+            <p>That we expect our Brethren of Scotland, according to the act of pacification, whereby the two Kingdomes are mutually bound to ſuppreſſe all debates and differences, to the diſtur<g ref="char:EOLhyphen"/>bance
+<pb n="8" facs="tcp:171771:8"/>
+of the publike peace, that they will help and aſſiſt us in defence of the Cauſe, which if the Popiſh party prevaile, muſt needs either involve them in that alteration of Religion which will be made here, or ingage them in a War againſt this king<g ref="char:EOLhyphen"/>dome, to defend their own Religion and liberty: And we doubt not but the God of truth, and the great protector of his peo<g ref="char:EOLhyphen"/>ple, will aſſiſt and inable us in this our juſt defence, to reſtrain the malice and fury of thoſe that ſeeke our ruine, and to ſecure the perſons, eſtates, and liberties of all that joyne with us: And to procure and eſtabliſh the ſafety of Religion, and fruition of our Lawes and Liberties, in this and all other His Majeſties Dominions, which we doe here againe profeſſe before the ever<g ref="char:EOLhyphen"/>living God, to be the chief end of all our Counſels and Reſolu<g ref="char:EOLhyphen"/>tions, without any intention or deſire to <unclear>hurt or injure</unclear> His Majeſty, either in His Perſon or juſt Power.</p>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <date>Die Lunae, 24. October 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is this Day Ordered by the Lords and Commons<g ref="char:punc">▪</g> That all People within the Cities of London and Weſtminſter, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Priveledged Places, Liberties and Suburbs thereof, and in the Borrough of South<g ref="char:EOLhyphen"/>warke be required to ſhut up their Shops, and for<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> their Trades and other ordinary Imployments, that ſo they may w<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> the greater diligence and freedome for the preſent attend the defence of the ſaid places, and put in Execution, and performe ſuch <unclear>Commands</unclear> for the Defence and ſafety thereof, as they ſhall from time to time receive from both Houſes of Parliament; the Committee for the defence of the Kingdome, the Lord Generall, or the Lord Maior <unclear>and</unclear> Committee for the Militia.</p>
+            <closer>
+               <signed>I<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Br<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wne Cler. Parl.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
